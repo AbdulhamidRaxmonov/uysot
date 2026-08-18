@@ -1,0 +1,14 @@
+name: uysot_mobile
+
+description: A minimal Flutter scaffold for Uysot (Joymee-like)
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true

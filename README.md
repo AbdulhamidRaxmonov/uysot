@@ -2,6 +2,9 @@
 
 Repo for Uysot — real estate mobile app (Flutter) and backend (Laravel).
 
-This repository was initialized by the assistant. Development will continue on the feature branch `feature/scaffold-init` where the initial scaffold for backend (Laravel) and mobile (Flutter) will be added.
+This commit adds initial scaffolds for:
+- mobile/flutter: minimal Flutter app structure with a Home screen modeled after Joymee (UI sketch)
+- backend/laravel: API skeleton (routes, Listing controller, model, migration) and a simple admin blade view
+- docs describing SMS (eskiz.uz) integration sketch and Payme / Click payment integrations
 
-See issues/PRs for details.
+See backend/README.md and mobile/README.md for setup and next steps.
